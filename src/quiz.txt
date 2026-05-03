@@ -1,0 +1,15 @@
+#When building new quiz files, lines begining with hashtags will be ingorned by the reader
+#question format should be: 
+#question | answer
+
+In what country did the first Starbucks open outside of North America? | Japan
+In a website browser address bar, what does “www” stand for? | World Wide Web
+What is the tiny piece at the end of a shoelace called? | Aglet
+Which company’s slogan is “You’re in good hands?” | Allstate
+Pocahontas was baptized and given what English name? | Rebecca
+Originally, Amazon only sold what kind of product? | Books
+In 2009, what became the first Morse code character to be added since WWII? | @
+Which kind of bulbs were once exchanged as a form of currency? | Tulips
+Who was the first woman pilot to fly solo across the Atlantic? | Amelia Earhart
+When did Facebook first launch | 2004
+A 401(k) is a type of tax-advantaged defined-contribution account designed to help you save for what withdrawal from working life? | Retirement
